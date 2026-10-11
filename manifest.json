@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "marshmallow-code",
+  "repo": "marshmallow-validators",
+  "versions": [
+    {
+      "commit": "2985068c86f961b5150a6c3ea3169d398ab4bc48",
+      "parsed_at": "2026-10-11T02:15:34.159229+00:00",
+      "filetree": "filetree/2985068c86f961b5150a6c3ea3169d398ab4bc48.nq.gz",
+      "blobs": [
+        "blob/2b4476477fe314cdf9e221f94cecc0727f32d8c9.nq.gz",
+        "blob/3c345456c7b4b5f064632fea5cf11228fdcb0eef.nq.gz",
+        "blob/68d9d27f1a0c904f71270a0cee466f11d1af69dc.nq.gz",
+        "blob/8924dcf86cfeb4d43e20e0d5306245199b4a2b63.nq.gz",
+        "blob/19326447a9cfb982465dd1b043fdb1e8dff3dbae.nq.gz",
+        "blob/e984708b5a06c71f41ab82bb8e808d1cb88853a4.nq.gz",
+        "blob/eb48b27c68fc200c9ef53dbc6e49b0d3ef08afb3.nq.gz",
+        "blob/c8b23b8805ae381a12c7be4dfe037f3649de8c5c.nq.gz",
+        "blob/47be343918509d1ec143363b59c74eeae9f88611.nq.gz",
+        "blob/e86cfd4eb10b95f56b6aea720b5ead398cf9a481.nq.gz",
+        "blob/fab9557a83a4877551be22672e2cb06c7cdf26c5.nq.gz",
+        "blob/1005e265973ba976766d336b6c043d066e663d6e.nq.gz",
+        "blob/64da955e8c86fd507f4ee2ee7c50d90693b49465.nq.gz",
+        "blob/7e7d024a1fa63204e9e60457f645a72b31ba08ea.nq.gz",
+        "blob/0d08bd22fa352eb82e1866418bf31fe7f34e8056.nq.gz",
+        "blob/fc293e15d9dbfb78005a713d28ffab09639b9503.nq.gz",
+        "blob/709fdc7f8cf36462bc6d1c4f3f442e8d1fa7f43f.nq.gz",
+        "blob/d293c5fd81c89c35b1029f25dccb9f77401aaca0.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/fa07e9e9a0a642238290e1e531c015e7134401fa.nq.gz",
+        "blob/41ff9990a971d7e4e0256806713d363578c4254a.nq.gz",
+        "blob/ee27d586aaa2af945468dadfaf570c2fec52bcf7.nq.gz",
+        "blob/cf353a65e1a8a1cfb00d8e7fe30f29280cc43389.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
