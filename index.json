@@ -1,0 +1,11 @@
+{
+  "org": "marshmallow-code",
+  "repo": "marshmallow-validators",
+  "versions": [
+    {
+      "commit": "2985068c86f961b5150a6c3ea3169d398ab4bc48",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:18:08.577058+00:00"
+    }
+  ]
+}
